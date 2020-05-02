@@ -240,6 +240,7 @@ h1 {
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script> 
+<a href="https://www.sigmatraffic.com?ref=65197">Buy traffic for your website</a>
 <br>
 <br>
 <br>  
