@@ -2,7 +2,7 @@
   <head>
     <style>
 body {
-  background-image: url(https://wallpapercave.com/wp/wp2514450.jpg);
+  background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark_1920x1234.jpg);
 }
 </style>
    <style>
@@ -21,19 +21,25 @@ h1 {
   </head>
   <body>
   <div align="center">
+<br>
+<br>
+<div class="alignleft">
+     <script type="text/javascript">
+       	amzn_assoc_ad_type = "banner";
+	amzn_assoc_marketplace = "amazon";
+	amzn_assoc_region = "US";
+	amzn_assoc_placement = "assoc_banner_placement_default";
+	amzn_assoc_campaigns = "gift_certificates";
+	amzn_assoc_banner_type = "category";
+	amzn_assoc_isresponsive = "true";
+	amzn_assoc_banner_id = "1G274HKHXM7QERC7YAG2";
+	amzn_assoc_tracking_id = "akiralamagna-20";
+	amzn_assoc_linkid = "5c2d9a6214950c06c9a85c7cf4b9d092";
+     </script>
+     <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script>
+    </div>
+<br>
 
-   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- adsforgithub -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-9525060587669167"
-     data-ad-slot="8763798026"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<br>
-<br>
-<br>
   <h1 style="color:#ffbf00;">Exclusive For US</h1>
 <br>
 <br>
@@ -80,7 +86,7 @@ h1 {
 <br>
 <br>
 <br>
-   <a href="https://bit.ly/3aX8ujR">
+   <a href="https://amzn.to/3fjDcY6">
   <img src="https://1.bp.blogspot.com/-EADkth26ddM/V6F-nu7MCbI/AAAAAAAATlk/_Kn3bJdRXaEo3GAZ5QZmW-VFh64aQNlPQCLcB/s280/Nominate%2Byour%2Bspecial%2Bfriend%2B%2526%2BWin%2BAmazon%2Bgift%2Bvouchers%2Bof%2BINR%2B1000%2Beach.png" alt="Amazon e-Gift Card" style="width:450px;height:242px;border:0;">
 </a>   
 <br>
@@ -104,16 +110,7 @@ h1 {
 <br>
 <br>
 <br>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-6t+ed+2i-1n-4w"
-     data-ad-client="ca-pub-9525060587669167"
-     data-ad-slot="6318502040"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=primemain&banner=0RDXBNPWC03XZMXQZGR2&f=ifr&linkID=070c557da4a594de64332f4cd3871f4c&t=akiralamagna-20&tracking_id=akiralamagna-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <h1 style="color:#ffbf00;">Exclusive For UK</h1>
 <br>
 <br>
@@ -136,16 +133,7 @@ h1 {
 <br>
 <br>
 <br>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-6t+ed+2i-1n-4w"
-     data-ad-client="ca-pub-9525060587669167"
-     data-ad-slot="6318502040"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=primegift&banner=0DHKFFV9MZ6GTWBFZK82&f=ifr&linkID=7dcc003805711308bb7899c35e940567&t=akiralamagna-20&tracking_id=akiralamagna-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <br>
 <br>
 <br>
@@ -165,15 +153,7 @@ h1 {
 <br>
 <br>
 <br>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- adsforgithub -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-9525060587669167"
-     data-ad-slot="8763798026"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+ <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=giftcardsnonamazon&banner=19MYWYAJPYYCSF8R7W82&f=ifr&linkID=7ececdd15f74d750318b4c9fdffdad4f&t=akiralamagna-20&tracking_id=akiralamagna-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <br>
 <br>
 <br>
@@ -193,16 +173,8 @@ h1 {
 <br>
 <br>
 <br>  
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-6t+ed+2i-1n-4w"
-     data-ad-client="ca-pub-9525060587669167"
-     data-ad-slot="6318502040"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=wireless&banner=0TJY74H4VE9W4MDG6J82&f=ifr&linkID=77492f05dbfbe0d2eed17b5922f84963&t=akiralamagna-20&tracking_id=akiralamagna-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+    <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=wireless&banner=0SE047GEQ15ZRB84VCR2&f=ifr&linkID=8f107dfcc60e465fbe17688d2512e95e&t=akiralamagna-20&tracking_id=akiralamagna-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
    <h1 style="color:#ffbf00;">Electronics and Gadgets</h1>
 <br>
 <br>
@@ -231,7 +203,8 @@ h1 {
 <br>
 <br>
 <br>  
-   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=36&l=ez&f=ifr&linkID=c6dcc1cff37dc8d764ea0fe461e7a58a&t=akiralamagna-20&tracking_id=akiralamagna-20" width="600" height="520" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- adsforgithub -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
@@ -239,13 +212,14 @@ h1 {
      data-ad-slot="8763798026"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script> 
-<a href="https://www.sigmatraffic.com?ref=65197">Buy traffic for your website</a>
+</script>
 <br>
 <br>
 <br>  
 <br>
 <br>
 <br>    
+   <h5 style="color:#ffffff;">Sweepstakes Collection® 2020</h5>
+    
     </body>
 </html>
