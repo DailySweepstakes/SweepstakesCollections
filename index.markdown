@@ -80,7 +80,7 @@ h1 {
 <br>
 <br>
 <br>
-   <a href="https://amzn.to/3fjDcY6">
+   <a href="https://bit.ly/3aX8ujR">
   <img src="https://1.bp.blogspot.com/-EADkth26ddM/V6F-nu7MCbI/AAAAAAAATlk/_Kn3bJdRXaEo3GAZ5QZmW-VFh64aQNlPQCLcB/s280/Nominate%2Byour%2Bspecial%2Bfriend%2B%2526%2BWin%2BAmazon%2Bgift%2Bvouchers%2Bof%2BINR%2B1000%2Beach.png" alt="Amazon e-Gift Card" style="width:450px;height:242px;border:0;">
 </a>   
 <br>
