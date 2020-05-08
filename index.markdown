@@ -1,6 +1,7 @@
 <html>
   <head>
-    <style>
+ <meta name="propeller" content="c5c8bb775d832f49832c9133033655f6">	  
+   <style>
 body {
   background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark_1920x1234.jpg);
 }
@@ -16,7 +17,6 @@ h1 {
   font-weight: bold;
 }
 </style>
-   <meta name="propeller" content="c5c8bb775d832f49832c9133033655f6">
    <meta charset="UTF-8">
     <title> Claim your Free Money</title>
   </head>
