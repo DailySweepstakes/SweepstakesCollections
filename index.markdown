@@ -26,11 +26,11 @@ h1 {
    <img src="https://images.samsung.com/au/smartphones/galaxy-s20/buy/1-9-hubble-x1-cosmic-gray-gallery-mobile-img.jpg" alt="Samsung S20" style="width:500px;height:600px;">
   <br>
    <br>
-   <h3 style="color:#171717;">You have won Samsung's daily Competition by just going here. </h3> 
+   <h1 style="color:#171717;">You have won Samsung's daily Competition by just going here. </h1> 
   <br>
-   <h4 style="color:#171717;">How to claim your new Samsung S20? (EASY)</h4> 
-   <h4 style="color:#171717;">Step 1: Click the button below.</h4>
-   <h4 style="color:#171717;">Step 2: Enter your Email and claim your prize.</h4>
+   <h2 style="color:#171717;">How to claim your new Samsung S20? (EASY)</h2> 
+   <h2 style="color:#171717;">Step 1: Click the button below.</h2>
+   <h2 style="color:#171717;">Step 2: Enter your Email and claim your prize.</h2>
 <a href="https://bit.ly/3cbN8k5">
   <img src="https://media.giphy.com/media/QsCHgEPBO1zixjSlQM/giphy.gif" alt="Play $ Win $50" style="width:480px;height:126px;border:0;">
   <br>
@@ -38,7 +38,10 @@ h1 {
   <br>
  <script async="async" data-cfasync="false" src="//rxtgbihqbs99.com/eeea8ab15566b070a70210e23184c7a2/invoke.js"></script>
 <div id="container-eeea8ab15566b070a70210e23184c7a2"></div>
-  <a href="https://smrturl.co/o/88569/51641288?s1=">© Copyright 2020 | Sweepstake Collection</a>
+ <br>
+   <br>
+   <br>
+<a href="https://smrturl.co/o/88569/51641288?s1=">© Copyright 2020 | Sweepstake Collection</a>
 <br>
   <a href="https://smrturl.co/o/88569/51641288?s1=/">Terms of Use | Privacy Policy</a>
  <br>
