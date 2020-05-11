@@ -16,7 +16,7 @@ h1 {
 <script type='text/javascript' src='//rxtgbihqbs99.com/cd/09/a9/cd09a9b4e5594590fb8d201d1d27a0bf.js'></script>
   </head>
 
-<body style="background-color:black;">
+<body style="background-color:white;">
  <div align="center">
 <br>
    <br>
@@ -26,11 +26,11 @@ h1 {
    <img src="https://images.samsung.com/au/smartphones/galaxy-s20/buy/1-9-hubble-x1-cosmic-gray-gallery-mobile-img.jpg" alt="Samsung S20" style="width:500px;height:600px;">
   <br>
    <br>
-   <h3 style="color:#ffffff;">You have won Samsung's daily Competition by just going here. </h3> 
+   <h3 style="color:#171717;">You have won Samsung's daily Competition by just going here. </h3> 
   <br>
-   <h4 style="color:#ffffff;">How to claim your new Samsung S20? (EASY)</h4> 
-   <h4 style="color:#ffffff;">Step 1: Click the button below.</h4>
-   <h4 style="color:#ffffff;">Step 2: Enter your Email and claim your prize.</h4>
+   <h4 style="color:#171717;">How to claim your new Samsung S20? (EASY)</h4> 
+   <h4 style="color:#171717;">Step 1: Click the button below.</h4>
+   <h4 style="color:#171717;">Step 2: Enter your Email and claim your prize.</h4>
 <a href="https://bit.ly/3cbN8k5">
   <img src="https://media.giphy.com/media/QsCHgEPBO1zixjSlQM/giphy.gif" alt="Play $ Win $50" style="width:480px;height:126px;border:0;">
   <br>
